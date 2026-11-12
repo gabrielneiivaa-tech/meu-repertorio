@@ -1,44 +1,35 @@
-# 🧠 Meu Repertório & Memória Técnica
+# ⚡ Portfólio Técnico & Engenharia de Automação
 
-> Repositório pessoal de continuidade profissional, documentação de repertório e memória para assistentes de IA (Antigravity, Gemini, Claude, ChatGPT).
-
----
-
-## 🎯 Por que este repositório existe?
-Para que você nunca perca o conhecimento, soluções técnicas e padrões de desenvolvimento que você já construiu. Quando você trocar de computador, mudar de trabalho ou iniciar novos projetos:
-1. Você não precisa reexplicar seu perfil e histórico para a IA.
-2. Você pode clonar qualquer um dos seus projetos com um único comando.
-3. Você tem um compêndio de soluções para problemas reais já resolvidos.
+> Documentação central de arquitetura, padrões de desenvolvimento e catálogo de soluções em automação de processos (RPA), dados operacionais e esteiras de integração financeira.
 
 ---
 
-## 📁 Estrutura deste Repositório
+## 🎯 Visão Geral
+Este repositório centraliza as diretrizes técnicas, padrões de código e documentação de projetos desenvolvidos para otimização de fluxos corporativos, controladoria e rotinas fiscais. O objetivo é manter governança, rastreabilidade técnica e consistência de arquitetura em soluções de alta confiabilidade.
 
-| Arquivo | Descrição |
+---
+
+## 📁 Estrutura da Documentação
+
+| Documento | Descrição |
 |---|---|
-| [INSTRUCOES_PARA_IA.md](INSTRUCOES_PARA_IA.md) | **Prompt mestre** pronto para copiar e colar na primeira conversa com qualquer IA. |
-| [perfil_desenvolvedor.md](perfil_desenvolvedor.md) | Suas habilidades, linguagens, ferramentas e padrões de arquitetura de software. |
-| [aprendizados_e_solucoes.md](aprendizados_e_solucoes.md) | Soluções técnicas para desafios reais (Playwright, uploads, ambientes sem permissão admin, Excel). |
-| [inventario_projetos.md](inventario_projetos.md) | Lista de todos os seus 5 projetos privados no GitHub e o que cada um faz. |
+| [perfil_desenvolvedor.md](perfil_desenvolvedor.md) | Perfil técnico, stacks dominadas e padrões de arquitetura de software aplicados. |
+| [inventario_projetos.md](inventario_projetos.md) | Catálogo de projetos corporativos desenvolvidos (RPA, esteiras fiscais, contratos e conciliações). |
+| [aprendizados_e_solucoes.md](aprendizados_e_solucoes.md) | Soluções de engenharia para desafios reais (Playwright, uploads dinâmicos, ambientes corporativos restritos, manipulação em lote). |
+| [INSTRUCOES_PARA_IA.md](INSTRUCOES_PARA_IA.md) | Diretrizes e padrões para inicialização de ambientes assistidos por Inteligência Artificial (AI-assisted engineering). |
 
 ---
 
-## 🚀 Como usar em uma máquina nova (3 passos)
+## 🛠️ Stacks e Competências em Destaque
+- **Linguagens & Automação:** Python (3.11+), Playwright (RPA), PowerShell, Scripts Batch.
+- **Engenharia de Dados & Aplicações:** Pandas, OpenPyXL, Streamlit (Dashboards Operacionais).
+- **Orquestração & Integrações:** n8n, Docker / Docker Compose, APIs REST, Webhooks.
+- **Processamento de Documentos:** Manipulação e validação fiscal de PDFs (DANFE, notas municipais/nacionais, iTextSharp).
+- **Versionamento & Governança:** Git, GitHub CLI.
 
-### Passo 1: Autenticar o GitHub
-Em um terminal (PowerShell), autentique sua conta:
-```powershell
-gh auth login
-```
+---
 
-### Passo 2: Clonar seus repositórios
-Para baixar este repertório e seus projetos:
-```powershell
-gh repo clone gabrielneiivaa-tech/meu-repertorio
-gh repo clone gabrielneiivaa-tech/contrato-d4
-gh repo clone gabrielneiivaa-tech/prestacao-de-contas
-# e os demais conforme necessário
-```
-
-### Passo 3: Inicializar a IA com seu contexto
-Abra o arquivo [INSTRUCOES_PARA_IA.md](INSTRUCOES_PARA_IA.md), copie o bloco de texto e envie na primeira mensagem do chat da IA. Ela assumirá instantaneamente todo o seu repertório!
+## 👤 Desenvolvedor
+- **Gabriel Neiva**
+- Graduando em Ciências Econômicas • Foco em Operações Financeiras, Análise de Crédito & Automação
+- GitHub: [@gabrielneiivaa-tech](https://github.com/gabrielneiivaa-tech)
